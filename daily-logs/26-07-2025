@@ -1,0 +1,37 @@
+2025-07-26 - Day 1 Log
+
+Topics Covered
+- Introduction to Python
+- Python Comments (`#`)
+- Print Statements (`print()`)
+- Variables and Assignment
+- Taking User Input (`input()`)
+- `type()` Function to Check Data Types
+- Basic Data Types: `int`, `float`, `bool`
+- Type Casting: `int()`, `float()`, `str()` (Used but not fully learned `str()`)
+
+Practice
+- Wrote multiple scripts to:
+  - Assign and print variables
+  - Take input from user and display personalized messages
+  - Check and convert data types
+- Used `str()` in type casting, but not fully explored strings yet.
+
+Mini Projects
+-My_Digital_ID 
+-Personal_Budget_Calculator
+-Age_Checker
+
+Challenges
+-Understanding the need for type casting while using input()
+-Didn’t explore strings deeply yet (e.g., slicing, methods)
+
+Plan for Tomorrow
+-Learn about:
+  -String operations and formatting
+  -Operators
+
+Notes
+-All input() returns strings — must cast to int or float when needed.
+-print() can take multiple values, separated by commas.
+-Type casting allows us to convert values like: str(age), int("5"), float("2.5")
