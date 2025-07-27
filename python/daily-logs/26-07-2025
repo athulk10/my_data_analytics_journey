@@ -26,11 +26,11 @@ Challenges
 -Understanding the need for type casting while using input()
 -Didn’t explore strings deeply yet (e.g., slicing, methods)
 
-Plan for Tomorrow
--Learn about:
-  -String operations and formatting
-
 Notes
 -All input() returns strings — must cast to int or float when needed.
 -print() can take multiple values, separated by commas.
 -Type casting allows us to convert values like: str(age), int("5"), float("2.5")
+
+Plan for Tomorrow
+-Learn about:
+  -String operations and formatting
