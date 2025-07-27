@@ -1,8 +1,6 @@
-27-07-2025 Day 2 log
----
+2025-07-27 Day 2 log
 
-## ✅ Topics Covered
-
+Topics Covered
 - String basics and creation
 - String length using `len()`
 - String modification methods:
@@ -17,8 +15,7 @@
 
 ---
 
-## 🧪 Practice Highlights
-
+Practice Highlights
 - Manipulated user-inputted strings
 - Extracted substrings with slicing
 - Reversed strings using slicing
