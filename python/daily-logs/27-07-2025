@@ -1,0 +1,77 @@
+Topics Covered
+Python Strings
+
+String Length (len())
+
+String Modification Methods:
+
+.upper(), .lower(), .capitalize(), .title(), .strip()
+
+String Concatenation (+, , in print())
+
+String Slicing ([start:stop:step])
+
+String Reversal using slicing ([::-1])
+
+Escape Characters (\n, \t, \\, \', \")
+
+String Formatting:
+
+Using +, , in print()
+
+f-strings (f"Hello {name}")
+
+.format() method
+
+🧪 Practice
+Printed and manipulated string variables with different methods
+
+Calculated string lengths using len()
+
+Practiced slicing on names and phrases (first name, last character, skipping characters, reverse string)
+
+Used escape characters to format output
+
+Used different string formatting methods to personalize output
+
+🧩 Mini Projects
+Name_Formatter: Took user name input and returned it in uppercase, reversed, and proper case using various methods
+
+String_Analyzer: Took a sentence and printed:
+
+Length
+
+Uppercase version
+
+Reversed sentence
+
+First 5 and last 5 characters
+
+Welcome_Message_Generator: Used f-strings and escape characters to format multi-line welcome messages
+
+⚠️ Challenges
+Getting comfortable with slicing syntax
+
+Remembering which methods return new strings vs. change in-place (strings are immutable!)
+
+Forgetting f"" in f-strings caused syntax issues initially
+
+📅 Plan for Tomorrow
+Learn about:
+
+Arithmetic and comparison operators
+
+Logical operators (and, or, not)
+
+Conditional statements (if, else, elif)
+
+📝 Notes
+Strings are immutable — string methods return new strings
+
+len() gives the number of characters, including spaces
+
+[::-1] is the simplest way to reverse a string
+
+Escape characters help format text nicely (\n = newline, \t = tab)
+
+f-strings are preferred over + or .format() for readability
