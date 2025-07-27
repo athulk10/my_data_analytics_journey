@@ -13,8 +13,6 @@ Topics Covered
   - f-strings → `f"Hello, {name}!"`
   - `.format()` method
 
----
-
 Practice Highlights
 - Manipulated user-inputted strings
 - Extracted substrings with slicing
@@ -22,42 +20,23 @@ Practice Highlights
 - Used f-strings for dynamic formatting
 - Practiced multi-line output using escape sequences
 
----
+Mini Projects
+-Name_Formatter
+-String_Analyzer
+-Welcome_Message_Generator
 
-## 💻 Mini Projects
-
-Name_Formatter
- String_Analyzer
-Accepts a sentence and:
-- Shows length
-- Converts to uppercase
-- Reverses it
-- Shows first 5 and last 5 characters
-
-### 🔹 Welcome_Message_Generator
-Prints a welcome message using f-strings and escape characters with tabbed formatting.
-
----
-
-## 🧠 Challenges Faced
-
+Challenges Faced
 - Remembering slicing syntax: `[start:stop:step]`
 - Mixing string formatting methods caused confusion (e.g., `+` vs `f""`)
 - Understanding that strings are immutable
 
----
-
-## 📌 Notes
-
+Notes
 - Strings in Python are immutable
 - `len()` counts every character, including spaces
 - Use slicing to extract or reverse parts of a string
 - `f""` strings are easier and cleaner than `+` or `.format()`
 
----
-
-## ⏭️ Plan for Day 3
-
+Plan for Day 3
 - Arithmetic and comparison operators
 - Logical operators: `and`, `or`, `not`
 - Conditional statements: `if`, `elif`, `else`
