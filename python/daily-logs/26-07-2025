@@ -29,7 +29,6 @@ Challenges
 Plan for Tomorrow
 -Learn about:
   -String operations and formatting
-  -Operators
 
 Notes
 -All input() returns strings — must cast to int or float when needed.
