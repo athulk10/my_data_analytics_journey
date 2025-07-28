@@ -1,0 +1,42 @@
+2025-07-27 Day 2 log
+
+Topics Covered
+- String basics and creation
+- String length using `len()`
+- String modification methods:
+  - `.upper()`, `.lower()`, `.capitalize()`, `.title()`, `.strip()`
+- String concatenation using `+` and commas
+- String slicing: `[start:stop:step]`
+- String reversal using `[::-1]`
+- Escape characters: `\n`, `\t`, `\\`, etc.
+- String formatting with:
+  - f-strings → `f"Hello, {name}!"`
+  - `.format()` method
+
+Practice Highlights
+- Manipulated user-inputted strings
+- Extracted substrings with slicing
+- Reversed strings using slicing
+- Used f-strings for dynamic formatting
+- Practiced multi-line output using escape sequences
+
+Mini Projects
+-Name_Formatter
+-String_Analyzer
+-Welcome_Message_Generator
+
+Challenges Faced
+- Remembering slicing syntax: `[start:stop:step]`
+- Mixing string formatting methods caused confusion (e.g., `+` vs `f""`)
+- Understanding that strings are immutable
+
+Notes
+- Strings in Python are immutable
+- `len()` counts every character, including spaces
+- Use slicing to extract or reverse parts of a string
+- `f""` strings are easier and cleaner than `+` or `.format()`
+
+Plan for Day 3
+- Arithmetic and comparison operators
+- Logical operators: `and`, `or`, `not`
+- Conditional statements: `if`, `elif`, `else`
