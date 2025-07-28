@@ -1,0 +1,41 @@
+2025-07-28 Day 3 Log
+
+Topics Covered
+-Arithmetic operators: +, -, *, /, //, %, **
+-Comparison operators: ==, !=, >, <, >=, <=
+-Assignment operators: =, +=, -=, *=, /=, etc.
+-Logical operators: and, or, not
+-Operator precedence and combining expressions
+-Using operators with numbers and strings
+
+Practice Highlights
+-Evaluated mathematical expressions using arithmetic operators
+-Compared values using comparison operators
+-Combined multiple conditions using logical operators
+-Practiced assignment shortcuts like +=, *=, etc.
+-Tested operator precedence in complex expressions
+
+Mini Projects
+-Basic_Calculator
+-Smart_String_Analyzer_Tool
+-Fake_Email_Formatter_Validator
+-Password_Obfuscator_Tool
+
+Challenges Faced
+-Confusion between / (true division) and // (floor division)
+-Accidentally using = instead of == in comparisons
+-Remembering correct order of operations
+-Combining and, or, not logically in expressions
+
+Notes
+-/ returns float, // returns integer division result
+-% gives remainder, ** is exponentiation
+-Use parentheses () to control evaluation order
+-Logical operators return Boolean values (True/False)
+-Combining conditions makes code more dynamic and powerful
+
+Plan for Day 4
+-Conditional statements: if, elif, else
+-Nesting conditions
+-Writing decision-based mini tools
+
